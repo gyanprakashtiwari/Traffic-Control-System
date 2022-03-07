@@ -1,6 +1,6 @@
 # Smart Traffic control system
 ### Deployed live link
-    live link : https://traffic-control-knmiet.herokuapp.com/
+     https://traffic-control-knmiet.herokuapp.com/
 
 ### How to run locally
 1. Install virtualenv , create an environment with name env and activate the env 
